@@ -1,0 +1,159 @@
+        body{
+            background-image: url(../background/i.jpeg);
+            }
+        .mở{
+                color: rgb(233, 227, 227);
+                font-size: large;
+                text-align: center;
+        }
+        .thân{
+                font-size: large;
+                background-image: url(../background/i.jpeg);
+        }
+        .main {
+            max-width: 1200px;
+            margin: auto;
+            position: relative;
+            top: auto;
+        }
+        ul {
+            float: right;
+            list-style-type: none;
+            margin-top: 25px;
+        }
+        
+        ul li {
+            display: inline-block;
+        }
+        
+        ul li a {
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+            padding: 15px 25px;
+            border: 1px solid transparent;
+            transition: 0.5s ease;
+        }
+        
+        ul li a:hover {
+            background-color: #fff;
+            color: #000;
+        }
+        
+        ul li.active a {
+            background-color: #fff;
+            color: #000;
+        }
+        
+        .nhỏ{
+            font-size: 32px;
+            color:  rgb(255, 255, 255);
+            background-image: url(../background/i.jpeg);
+            vertical-align: middle;
+            text-align: center;
+            text-shadow: rgb(16, 176, 216);
+            background-size: 500;
+            background-position: center ;
+        } 
+           
+        .a{
+            color: rgb(248, 245, 245);
+            text-align: center;    
+        
+        }   
+        .b{
+            text-align: center;
+            color:white ;
+           
+        }
+        .c{
+            text-align: center;
+       
+            color: rgb(248, 245, 245);
+        }
+        .d{
+            text-align: center;
+          
+            color: blanchedalmond;
+        }
+        
+        .e{
+            text-align: center;
+            color: blanchedalmond;
+          
+        }
+        .f{
+            text-align: center;
+            color: wheat;
+           
+
+        }
+        .g{
+            text-align: center;
+            color: wheat;
+            
+        }
+        .h{
+            text-align: center;
+            color: wheat;
+           
+        }
+        .i{
+            text-align: center;
+            color: wheat;
+    
+        }
+        .k{
+            text-align: center;
+            color: white;
+                 
+        }
+        .l{
+            text-align: center;
+            color: blanchedalmond;
+        
+        }
+        .m{
+            text-align: center;
+            color: blanchedalmond;
+            
+        }
+        .n{
+            text-align: center;
+            color:white;
+           
+        }
+        .o{
+            text-align: center;
+            color: white;
+        }
+        .p{
+            text-align: center;
+            color: white;
+        }
+        .q{
+            text-align: center;
+            color: white;
+        }
+        .r{
+            text-align: center;
+            color: white;
+
+        }
+        .s{
+            text-align: center;
+            color: white;
+        }
+        .t{
+            text-align: center;
+            color: white;
+        }
+        .u{
+            color: white;
+            text-align: center;
+        }
+        .kết{
+            text-align: center;
+            color:wheat;
+            background-image: url(../background/i.jpeg);
+        }
+       
